@@ -9,3 +9,13 @@ build/
 dist/
 *.egg-info/
 .eggs/
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.DS_Store
+.env
+.venv/
+build/
+dist/
+*.egg-info/
+.eggs/
