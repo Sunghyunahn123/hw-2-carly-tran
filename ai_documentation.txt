@@ -1,0 +1,4 @@
+Tool: ChatGPT
+Prompts: how to set up repo, help with pulling commands, packaging, env, and Binder navigation. 
+Used for a scipy.windows fix.
+Key outputs used: commands used in terminal for fixing repo
